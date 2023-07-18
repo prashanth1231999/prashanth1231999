@@ -5,6 +5,7 @@ My best project collection:
 **Analytics**
 1. [The I-94 Traffic Dataset (Analytics-DataQuest)](https://github.com/prashanth1231999/Data-Science-/tree/main/16.The%20I-94%20Traffic%20Dataset%20(Analytics-DataQuest))
 2. [IPL Data Analysis (Sports case-study)](https://github.com/prashanth1231999/Data-Analytics-Real-World-Projects-in-Python-Udemy-/tree/main/5.%20IPL%20Data%20Analysis%20(Sports%20case-study))
+3. [3. Amazon Customers' Data Analysis](https://github.com/prashanth1231999/Data-Analysis-Real-world-use-cases-handson-python-Udemy-/tree/main/3.%20Amazon%20Customers'%20Data%20Analysis)
 
 **ML**
 
