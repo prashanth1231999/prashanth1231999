@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 **Intelligent Automation Using Python**
+1. [Outlook Operations Automation using pure Python](https://github.com/prashanth1231999/intelligent-automation-python/blob/main/outlook_application_automation.ipynb)
+2. 
 
 
 **Data Analytics Using Python**
