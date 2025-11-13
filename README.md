@@ -2,7 +2,7 @@
 
 **Intelligent Automation Using Python**
 1. [Outlook Operations Automation using pure Python](https://github.com/prashanth1231999/intelligent-automation-python/blob/main/outlook_application_automation.ipynb)
-2. 
+2. [Data Preprocessing and Extraction from Excel](https://github.com/prashanth1231999/intelligent-automation-python/tree/main/handle_merged_cells)
 
 
 **Data Analytics Using Python**
